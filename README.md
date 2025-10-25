@@ -1,72 +1,82 @@
 # React E-commerce Store
 
-An e-commerce project built with **React + Vite** showcasing routing, dynamic product rendering and cart management using Context API.
+A simple and modern e-commerce web application built with React and Vite, featuring product listings, navigation and shopping cart functionality powered by Context API.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🏠 Home page display
-- 🛍 Browse products dynamically
-- 🛒 Add / Remove items from cart
-- 🔄 React Router for navigation
-- ⚛️ Global state management with Context API
-- 🎨 Clean and responsive UI
+- Home page introduction
+- Browse products dynamically from data
+- Add and remove items from cart
+- React Router for seamless navigation
+- Context API for global state management
+- Clean and responsive UI design
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Technology   | Purpose                  |
 |-------------|-------------------------|
 | React       | UI Development          |
-| Vite        | Fast Build Tool         |
-| React Router| Navigation              |
-| Context API | Cart State Management   |
+| Vite        | Development & Build Tool |
+| React Router| Page Navigation         |
+| Context API | State Management        |
 | CSS         | Styling                 |
 
 ---
 
-## 📸 Preview
-
-> *(Coming soon — UI screenshots will be added as design improves)*
+## Preview
+Screenshots or live preview will be added as the UI improves.
 
 ---
 
-## 🛠 Installation and Setup
+## Installation
 
 To run this project locally:
 
-```bash
-git clone https://github.com/MisturaDev/React-Ecommerce-Store.git
-cd React-Ecommerce-Store
-npm install
-npm run dev
+1. Clone this repository:
+   ```bash
+   https://github.com/MisturaDev/React-Ecommerce-Store.git
 
+2. Navigate into the project folder:
+   ```bash
+   cd React-Ecommerce-Store
 
+3. Install npm:
+   ```bash
+   npm install
 
-Visit:
-👉 http://localhost:5173/
-
-📌 Future Improvements
-✅ Product details page
-✅ LocalStorage cart persistence
-🔍 Search & category filtering
-💳 Checkout page
-🌍 Deployment (GitHub Pages or Vercel)
-🔐 User authentication
+4. Run the app in your browser:
+   ```bash
+   npm run dev
 
 ---
 
-👩‍💻 Developer
+## Open in browser at:
+http://localhost:5173/
+
+
+## Future Improvements
+Product details page
+Cart persistence with LocalStorage
+Search and category filtering
+Checkout page
+Deployment (GitHub Pages)
+User authentication and accounts
+
+---
+
+## Developer
 
 Mistura Ishola
-📌 Lagos, Nigeria
+Frontend Developer 
+Lagos, Nigeria
 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
 ---
 
-💙 Thanks for viewing this project!
-Feel free to star ⭐ fork and contribute 🤝
+Thank you for viewing this project. Contributions and feedback are welcome.
 
 
