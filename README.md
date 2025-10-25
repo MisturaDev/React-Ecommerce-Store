@@ -17,17 +17,17 @@ An e-commerce project built with **React + Vite** showcasing routing, dynamic pr
 
 ## 🧰 Tech Stack
 
-| Technology | Purpose |
-|-----------|---------|
-| React | UI Development |
-| Vite | Fast Build Tool |
-| React Router | Navigation |
-| Context API | Cart State Management |
-| CSS | Styling |
+| Technology   | Purpose                  |
+|-------------|-------------------------|
+| React       | UI Development          |
+| Vite        | Fast Build Tool         |
+| React Router| Navigation              |
+| Context API | Cart State Management   |
+| CSS         | Styling                 |
 
 ---
 
-## 📸 Preview (Add Images Here Soon)
+## 📸 Preview
 
 > *(Coming soon — UI screenshots will be added as design improves)*
 
@@ -39,37 +39,39 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/MisturaDev/React-Ecommerce-Store.git
-
-```bash
 cd React-Ecommerce-Store
-
-```bash
 npm install
-
-```bash
 npm run dev
 
 ---
 
- Visit
- http://localhost:5173/
+Visit:
+👉 http://localhost:5173/
 
-Future Improvements
+📌 Future Improvements
 
 ✅ Product details page
+
 ✅ LocalStorage cart persistence
+
 🔍 Search & category filtering
+
 💳 Checkout page
-🌍 Deployment (GitHub Pages)
+
+🌍 Deployment (GitHub Pages or Vercel)
+
 🔐 User authentication
 
 ---
 
-## Developer
+👩‍💻 Developer
 
 Mistura Ishola
 
+📌 Lagos, Nigeria
 
-
+---
+💙 Thanks for viewing this project!
+Feel free to star ⭐, fork, and contribute 🤝
 
 
