@@ -43,23 +43,17 @@ cd React-Ecommerce-Store
 npm install
 npm run dev
 
----
+
 
 Visit:
 👉 http://localhost:5173/
 
 📌 Future Improvements
-
 ✅ Product details page
-
 ✅ LocalStorage cart persistence
-
 🔍 Search & category filtering
-
 💳 Checkout page
-
 🌍 Deployment (GitHub Pages or Vercel)
-
 🔐 User authentication
 
 ---
@@ -67,11 +61,12 @@ Visit:
 👩‍💻 Developer
 
 Mistura Ishola
-
 📌 Lagos, Nigeria
+[LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
 ---
+
 💙 Thanks for viewing this project!
-Feel free to star ⭐, fork, and contribute 🤝
+Feel free to star ⭐ fork and contribute 🤝
 
 
