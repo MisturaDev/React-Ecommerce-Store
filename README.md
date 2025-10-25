@@ -48,7 +48,7 @@ To run this project locally:
    ```bash
    npm install
 
-4. Run the app in your browser:
+4. Start the development server:
    ```bash
    npm run dev
 
