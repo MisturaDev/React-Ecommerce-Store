@@ -59,18 +59,18 @@ http://localhost:5173/
 
 
 ## Future Improvements
-Product details page
-Cart persistence with LocalStorage
-Search and category filtering
-Checkout page
-Deployment (GitHub Pages)
-User authentication and accounts
+- Product details page
+- Cart persistence with LocalStorage
+- Search and category filtering
+- Checkout page
+- Deployment (GitHub Pages)
+- User authentication and accounts
 
 ---
 
 ## Developer
 
-Mistura Ishola
+**Mistura Ishola**
 Frontend Developer 
 Lagos, Nigeria
 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
