@@ -38,13 +38,13 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   https://github.com/MisturaDev/React-Ecommerce-Store.git
+   git clone https://github.com/MisturaDev/React-Ecommerce-Store.git
 
 2. Navigate into the project folder:
    ```bash
    cd React-Ecommerce-Store
 
-3. Install npm:
+3. Install dependencies:
    ```bash
    npm install
 
@@ -54,7 +54,7 @@ To run this project locally:
 
 ---
 
-## Open in browser at:
+Then visit in your browser:
 http://localhost:5173/
 
 
@@ -71,8 +71,11 @@ http://localhost:5173/
 ## Developer
 
 **Mistura Ishola**
+
 Frontend Developer 
+
 Lagos, Nigeria
+
 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
 ---
